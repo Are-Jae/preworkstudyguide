@@ -21,7 +21,15 @@ delete the old branch with ```git branch -d <branch name>```
 make a new branch all over again for future work 
 
 ## 
+
+## User Story
 The first task for this project is to download the started code and clone my repo to my local machine. 
+
+## Acceptance Criteria
+
+My webpage is complete when I deploy it and it displays my css and html properly while my javascript is logged to the console, displaying random information found within my notes.
+
+## Process 
 
 Once that was done I then went through and added useful notes for myself for each section (HTML,CSS, JAVASCRIPT)
 
