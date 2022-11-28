@@ -29,6 +29,10 @@ The first task for this project is to download the started code and clone my rep
 
 My webpage is complete when I deploy it and it displays my css and html properly while my javascript is logged to the console, displaying random information found within my notes.
 
+## Installation
+
+N/A
+
 ## Process 
 
 Once that was done I then went through and added useful notes for myself for each section (HTML,CSS, JAVASCRIPT)
@@ -46,7 +50,7 @@ I was able to solve my github issues by working through the git flow process wit
 
 My HTML, Javascript, CSS and assets are linked correctly and deploy as a full interactive webpage. I look forward to adding more notes throughout my time attending bootcamp.  
 
-## Resources
+## Resources and Credits 
 
 Tutor: Alexis Gonzales 
 
@@ -66,6 +70,8 @@ https://www.w3schools.com/java/java_conditions.asp#:~:text=Java%20has%20the%20fo
 ![Screenshot of HTML (2)](../../../../../C:/Users/raven/Desktop/preworkstudyguide/assets/html%20screenshot%20pt%202.JPG)
 
 ![Screenshot of Javascript](../../../../../C:/Users/raven/Desktop/preworkstudyguide/assets/js%20screenshot.JPG)
+
+
 
 
 
